@@ -13,7 +13,7 @@ Este es el repositorio del **backend** para la aplicación de catálogo de produ
 
 ### 1️⃣ Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/catalogo-producto-api.git
+git clone https://github.com/MemiMint/catalogo-producto-api.git
 ```
 
 ### 2️⃣ Configurar la base de datos
@@ -44,5 +44,3 @@ Inicia la aplicación con:
 dotnet run
 ```
 La API estará disponible en `https://localhost:5026`
-
-  **© 2025 - Catálogo de Producto API**
