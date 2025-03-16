@@ -21,8 +21,8 @@ Asegúrate de tener **MySQL** instalado y ejecutándose. Luego, crea una base de
 ```sql
 CREATE DATABASE catalogo_producto;
 ```
-
-De todas maneras hay un script en la carpeta scripts llamado create-database.sql que te permite crear dicha base de datos.
+De todas formas hay una carpeta llamada scripts que adentro posee un script llamada create-database.sql
+Que te permite crear la base de datos.
 
 ### 3️⃣ Configurar la cadena de conexión
 Edita el archivo `appsettings.json` y ajusta la cadena de conexión según tu configuración local:
@@ -44,3 +44,44 @@ Inicia la aplicación con:
 dotnet run
 ```
 La API estará disponible en `https://localhost:5026`
+
+## 📌 Endpoints del Controlador de Productos
+
+### 📍 Obtener todos los productos
+**GET** `api/products`
+- Retorna una lista de todos los productos.
+
+### 📍 Obtener un producto por ID
+**GET** `api/product?id={id}`
+- Parámetro: `id` (int) - ID del producto a obtener.
+
+### 📍 Buscar productos por nombre
+**POST** `api/products/search`
+- Body (JSON): `{ "search": "nombre del producto" }`
+- Retorna una lista de productos que coincidan con la búsqueda.
+
+### 📍 Crear un nuevo producto
+**POST** `api/product`
+- Body (FormData):
+  ```json
+  {
+    "file": Blob,
+    "nombre": "Producto Ejemplo",
+    "descripcion": "Descripción del producto",
+    "precio": 100.50,
+    "stock": 20,
+    "categoriaId": 1
+  }
+  ```
+- Retorna el producto creado.
+
+### 📍 Actualizar un producto
+**PUT** `api/product?id={id}`
+- Parámetro: `id` (int) - ID del producto a actualizar.
+- Body (FormData): Datos actualizados del producto.
+- Retorna el producto actualizado.
+
+### 📍 Eliminar un producto
+**DELETE** `api/product?id={id}`
+- Parámetro: `id` (int) - ID del producto a eliminar.
+- Retorna el producto eliminado.
