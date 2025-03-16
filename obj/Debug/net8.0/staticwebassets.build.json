@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "4Y/STrjkxtfr25BcbSjZfSMEqKxOu2kLC8MCH14ce/0=",
+  "Source": "catalogo-producto-api",
+  "BasePath": "_content/catalogo-producto-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "catalogo-producto-api\\wwwroot",
+      "Source": "catalogo-producto-api",
+      "ContentRoot": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\",
+      "BasePath": "_content/catalogo-producto-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg",
+      "SourceId": "catalogo-producto-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\",
+      "BasePath": "_content/catalogo-producto-api",
+      "RelativePath": "media/404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9jzqichc2m",
+      "Integrity": "ZUiF0w6LtuUdWGCW0DIxUvxlLQltBtQhj82ZGngPb7g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png",
+      "SourceId": "catalogo-producto-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\",
+      "BasePath": "_content/catalogo-producto-api",
+      "RelativePath": "media/53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4fo1s64svi",
+      "Integrity": "4OXwam/zxKYZbvM+qp+arBL4AcX1nuZ/+cDvpKggNd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png"
+    },
+    {
+      "Identity": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp",
+      "SourceId": "catalogo-producto-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\",
+      "BasePath": "_content/catalogo-producto-api",
+      "RelativePath": "media/db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s9qhwtgid9",
+      "Integrity": "QNM351U83zhOPfc2yszojt+Jgizo4LyUBLrkLfsRDOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "media/404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.9jzqichc2m.jpg",
+      "AssetFile": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZUiF0w6LtuUdWGCW0DIxUvxlLQltBtQhj82ZGngPb7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 09:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9jzqichc2m"
+        },
+        {
+          "Name": "label",
+          "Value": "media/404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZUiF0w6LtuUdWGCW0DIxUvxlLQltBtQhj82ZGngPb7g="
+        }
+      ]
+    },
+    {
+      "Route": "media/404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg",
+      "AssetFile": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZUiF0w6LtuUdWGCW0DIxUvxlLQltBtQhj82ZGngPb7g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 09:06:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZUiF0w6LtuUdWGCW0DIxUvxlLQltBtQhj82ZGngPb7g="
+        }
+      ]
+    },
+    {
+      "Route": "media/53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.4fo1s64svi.png",
+      "AssetFile": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "484110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OXwam/zxKYZbvM+qp+arBL4AcX1nuZ/+cDvpKggNd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 17:57:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fo1s64svi"
+        },
+        {
+          "Name": "label",
+          "Value": "media/53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OXwam/zxKYZbvM+qp+arBL4AcX1nuZ/+cDvpKggNd0="
+        }
+      ]
+    },
+    {
+      "Route": "media/53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png",
+      "AssetFile": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "484110"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4OXwam/zxKYZbvM+qp+arBL4AcX1nuZ/+cDvpKggNd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Mar 2025 17:57:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4OXwam/zxKYZbvM+qp+arBL4AcX1nuZ/+cDvpKggNd0="
+        }
+      ]
+    },
+    {
+      "Route": "media/db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.s9qhwtgid9.webp",
+      "AssetFile": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM351U83zhOPfc2yszojt+Jgizo4LyUBLrkLfsRDOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 05:59:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s9qhwtgid9"
+        },
+        {
+          "Name": "label",
+          "Value": "media/db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM351U83zhOPfc2yszojt+Jgizo4LyUBLrkLfsRDOg="
+        }
+      ]
+    },
+    {
+      "Route": "media/db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp",
+      "AssetFile": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QNM351U83zhOPfc2yszojt+Jgizo4LyUBLrkLfsRDOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Mar 2025 05:59:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QNM351U83zhOPfc2yszojt+Jgizo4LyUBLrkLfsRDOg="
+        }
+      ]
+    }
+  ]
+}

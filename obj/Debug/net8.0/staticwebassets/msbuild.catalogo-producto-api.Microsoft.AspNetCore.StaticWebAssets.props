@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>catalogo-producto-api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/catalogo-producto-api</BasePath>
+      <RelativePath>media/404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>9jzqichc2m</Fingerprint>
+      <Integrity>ZUiF0w6LtuUdWGCW0DIxUvxlLQltBtQhj82ZGngPb7g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>catalogo-producto-api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/catalogo-producto-api</BasePath>
+      <RelativePath>media/53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4fo1s64svi</Fingerprint>
+      <Integrity>4OXwam/zxKYZbvM+qp+arBL4AcX1nuZ/+cDvpKggNd0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp'))">
+      <SourceType>Package</SourceType>
+      <SourceId>catalogo-producto-api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/catalogo-producto-api</BasePath>
+      <RelativePath>media/db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>s9qhwtgid9</Fingerprint>
+      <Integrity>QNM351U83zhOPfc2yszojt+Jgizo4LyUBLrkLfsRDOg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

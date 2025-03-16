@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg",
+      "PackagePath": "staticwebassets\\media\\404a0e5a-74b8-4b00-825d-3a73a41610e5_GkvuTWaWQAAiCb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png",
+      "PackagePath": "staticwebassets\\media\\53f0c9f8-61a4-4610-a4cb-c030641d141e_zapatos-adidas.png"
+    },
+    {
+      "Id": "C:\\Users\\yefer\\source\\repos\\catalogo-producto-api\\wwwroot\\media\\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp",
+      "PackagePath": "staticwebassets\\media\\db782c4e-3e11-4c8e-ab59-5052822e444e_D_NQ_NP_923537-CBT74864168497_032024-O.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.catalogo-producto-api.props",
+      "PackagePath": "build\\catalogo-producto-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.catalogo-producto-api.props",
+      "PackagePath": "buildMultiTargeting\\catalogo-producto-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.catalogo-producto-api.props",
+      "PackagePath": "buildTransitive\\catalogo-producto-api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.catalogo-producto-api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.catalogo-producto-api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
